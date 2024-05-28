@@ -1,9 +1,9 @@
 .loginPage{
-    background: url('Images/emsimage.jpeg');
+    background: url('../Images/emsimage.jpeg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 120%;
-    background: linear-gradient(rgba(11,11,11,0.5),rgba(10,10,10,0.5)),url("Images/emsimage.jpeg");
+    background: linear-gradient(rgba(11,11,11,0.5),rgba(10,10,10,0.5)),url("../Images/emsimage.jpeg");
 }
 .loginForm{
     background-color:rgba(13, 29, 59, 0.9);
